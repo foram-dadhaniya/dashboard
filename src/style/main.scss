@@ -1,0 +1,23 @@
+
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
+
+.table {
+  background: white;
+  border-radius: 8px;
+}
+
+.action-btn {
+  margin-right: 10px;
+  cursor: pointer;
+
+  &:hover {
+    color: blue;
+  }
+}
+
+.modal-content {
+  border-radius: 12px;
+}
